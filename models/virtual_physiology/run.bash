@@ -1,0 +1,2 @@
+python3 run_virtual_physiology.py
+python3 run_gabor_fitting.py
